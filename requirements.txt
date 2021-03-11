@@ -1,0 +1,13 @@
+Django
+django-cors-headers
+django-environ
+django-silk
+django-templated-mail
+django-webpack-loader==0.7.0
+djangorestframework
+djangorestframework-simplejwt
+djoser
+loguru
+requests
+sentry-sdk
+jsonfield
